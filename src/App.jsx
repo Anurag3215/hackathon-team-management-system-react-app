@@ -12,7 +12,6 @@ function App() {
     <>
       
 <AddUser/>
-<AddUser/>
 
     </>
   )
